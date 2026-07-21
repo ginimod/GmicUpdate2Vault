@@ -1,8 +1,11 @@
 # GmicUpdate 2 Obsidian Vault
 
 python dump_to_obsidian.py -i update.gmic -o ./vault_gmic
+
 ou 
+
 wget https://gmic.eu/update400.json
+
 python script.py -j update400.json -o ./vault_gmic
 
 
