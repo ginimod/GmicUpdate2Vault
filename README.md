@@ -58,6 +58,7 @@ fx_circle_transform:
 * **`Interpolation`** (choice) : choix possibles => Nearest Neighbor, Linear
 * **`Boundary`** (choice) : choix possibles => Transparent, Nearest, Periodic, Mirror
 * **`Preview Reference Circle`** (bool) : par défaut = Faux (0)
+  
 (Note) : Author: <a href="https://tinyurl.com/3d9w4j3s">David Tschumperlé</a>.      Latest Update: 2013/01/08.
 
 # Note
