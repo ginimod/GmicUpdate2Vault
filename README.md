@@ -6,7 +6,7 @@ ou
 
 wget https://gmic.eu/update400.json
 
-python script.py -j update400.json -o ./vault_gmic
+python dump_to_obsidian.py -j update400.json -o ./vault_gmic
 
 
 # Exemple pour le filtre : fx_circle_transform
